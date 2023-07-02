@@ -1,0 +1,16 @@
+Region,Exchange Index,Currency 1,Currency 2,Exchange Rate
+North America,NYSE,USD,CAD,1.24
+Europe,LSE,GBP,EUR,1.13
+Asia,NSE,INR,JPY,1.48
+Australia,ASX,AUD,NZD,1.08
+Africa,JSE,ZAR,EGP,0.64
+South America,BOVESPA,BRL,ARS,13.67
+Europe,XETRA,EUR,CHF,1.07
+Asia,SSE,CNY,KRW,175.32
+North America,TSX,CAD,MXN,14.78
+Africa,NSE,NGN,ZAR,0.06
+Asia,SGX,SGD,MYR,2.96
+Europe,FTSE,EUR,GBP,0.88
+North America,NASDAQ,USD,MXN,21.36
+South America,BOVESPA,BRL,CLP,244.81
+Asia,HKEX,HKD,JPY,14.17
